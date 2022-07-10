@@ -1,0 +1,20 @@
+{
+    "Name": "HYR CAB",
+    "Enabled": true,
+    "Version": "1.0",
+    "Description": "Adds to Hyades Rim the 2750 and 3025 eras BattleMechs present in the CAB.",
+    "Author": "Community",
+	"IgnoreLoadFailure": true,	
+	"DependsOn": [ "CAB-3025", "Hyades Rim" ],
+	"Manifest": [  	
+		{ "Type": "AmmunitionBoxDef", "Path": "ammunitionbox" },
+		{ "Type": "ChassisDef", "Path": "chassis" },
+		{ "Type": "HeatSinkDef", "Path": "heatsinks" },
+		{ "Type": "MechDef", "Path": "mech/B" },
+		{ "Type": "MechDef", "Path": "mech/V" },
+		{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
+		{ "Type": "Sprite", "Path": "portraits" },
+		{ "Type": "UpgradeDef", "Path": "upgrades" },
+		{ "Type": "WeaponDef", "Path": "weapons" }
+    ]
+}
