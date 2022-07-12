@@ -33,7 +33,7 @@
         "Details": "One of the most common BattleMech designs present in all battlefields, the Stinger sees widespread use as both a fast scout and as a trainer for many pilots. While lightly armored and only carrying a Medium Laser and two machineguns, its speed and reliability can make it a serious threat when faced in large numbers.",
         "Icon": "uixTxrIcon_stinger"
     },
-    "simGameMechPartCost": 190000,
+    "simGameMechPartCost": 189000,
     "Version": 1,
     "Locations": [
         {

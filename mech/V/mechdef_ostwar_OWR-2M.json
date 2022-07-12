@@ -27,7 +27,7 @@
         "UIName": "Ostwar OWR-2M",
         "Id": "mechdef_ostwar_OWR-2M",
         "Name": "Ostwar",
-        "Details": "The heavier of the Ost-series with 65 tons, the Ostwar sacrifices the higher speed of the Ostroc and Ostsol in order to carry an LRM-20, two Medium Lasers and two SRM-4s. While the design was widely produced and exported by Ostmann Industries during the Age of War, most Ostwars were latter cannibalized during the Succession Wars to maintain the more successful Ostroc and Ostsol models, after their factories were destroyed.",
+        "Details": "The heavier of the Ost-series with 65 tons, the Ostwar sacrifices the higher speed of the Ostroc and Ostsol in order to carry an LRM-20, two Medium Lasers and two SRM-4s. While the design was widely produced and exported by Ostmann Industries during the Age of War, most Ostwars were latter cannibalized during the Succession Wars to maintain the more successful Ostroc and Ostsol models after their factories were destroyed.",
         "Icon": "uixTxrIcon_ostwar"
     },
     "simGameMechPartCost": 690000,

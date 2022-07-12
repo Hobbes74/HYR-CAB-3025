@@ -22,7 +22,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 7760000,
-        "Rarity": 4,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -32,7 +32,7 @@
         "Details": "While House Kurita was satisfied with the Crusader's design, the heat issues from the original version made it to introduce its own version of the BattleMech. The CRD-3K downgrades the long-range missiles to LRM-10s and removes the machine guns to add six additional heat sinks.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "simGameMechPartCost": 780000,
+    "simGameMechPartCost": 776000,
     "Version": 1,
     "Locations": [
         {

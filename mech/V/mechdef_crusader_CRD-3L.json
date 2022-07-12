@@ -20,7 +20,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 8170000,
-        "Rarity": 4,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -30,7 +30,7 @@
         "Details": "While both Davion and Kurita variants of the Crusader focused on simply giving it additional heat sinks, House Liao decided to downgrade both short and long-range missile racks, while adding four jump jets for extra mobility and a pair of extra heat sinks.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "simGameMechPartCost": 820000,
+    "simGameMechPartCost": 817000,
     "Version": 1,
     "Locations": [
         {

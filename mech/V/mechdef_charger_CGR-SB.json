@@ -18,7 +18,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 8960000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -28,7 +28,7 @@
         "Details": "The most extensive modification to the original Charger, the -SB reduces its top speed to 54 kph and uses the saved weight to mount four Large Lasers and a single Medium Laser, all cooled by eighteen heat sinks.",
         "Icon": "uixTxrIcon_charger"
     },
-    "simGameMechPartCost": 900000,
+    "simGameMechPartCost": 896000,
     "Version": 1,
     "Locations": [
         {

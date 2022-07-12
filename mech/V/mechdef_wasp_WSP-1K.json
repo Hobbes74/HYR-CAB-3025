@@ -17,7 +17,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2050000,
-        "Rarity": 1,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -27,7 +27,7 @@
         "Details": "Faced with supply issues related to the SRM-2 missile rack, the Draconis Combine decided to remove the launcher and replace it with a machine gun and additional armor.",
         "Icon": "uixTxrIcon_wasp"
     },
-    "simGameMechPartCost": 210000,
+    "simGameMechPartCost": 205000,
     "Version": 1,
     "Locations": [
         {

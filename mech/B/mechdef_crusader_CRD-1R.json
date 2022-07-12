@@ -20,7 +20,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 12470000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -30,7 +30,7 @@
         "Details": "The original production variant of the Crusader had double standard heat sinks, allowing it continous use of all its weapons. However, design issues with the missile launchers located on the -1R's legs caused a factory recall of all produced models to fix the issue. Full Crusader production would only resume with the -2R's variant.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "simGameMechPartCost": 1250000,
+    "simGameMechPartCost": 1247000,
     "Version": 1,
     "Locations": [
         {
@@ -109,7 +109,7 @@
     "inventory": [
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_LRM_LRM15_ARTEMIS",
+            "ComponentDefID": "Weapon_LRM_LRM15_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +186,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_LRM_LRM15_ARTEMIS",
+            "ComponentDefID": "Weapon_LRM_LRM15_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -219,7 +219,29 @@
         },
 		{
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Weapon_SRM_SRM4_ARTEMIS",
+            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
+            "MountedLocation": "LeftLeg",
+            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
+            "MountedLocation": "RightLeg",
+            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -230,10 +252,10 @@
         },
 		{
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Weapon_SRM_SRM4_ARTEMIS",
+            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "HardpointSlot": 1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

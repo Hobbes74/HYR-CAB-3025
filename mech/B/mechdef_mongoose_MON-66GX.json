@@ -25,17 +25,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2620000,
-        "Rarity": 0,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Mongoose MON-66GX",
         "Id": "mechdef_mongoose_MON-66GX",
         "Name": "Mongoose",
-        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  Armed with one Small and three Medium Lasers, it packs more of a punch while keeping up with the Locust's speed. The MON-66GX version is equiped with a ECM Stealth Suite.",
+        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  Armed with one Small and three Medium Lasers, it packs more of a punch while keeping up with the Locust's speed. The MON-66GX version is also equipped with a ECM Stealth Suite.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 260000,
+    "simGameMechPartCost": 262000,
     "Version": 1,
     "Locations": [
         {

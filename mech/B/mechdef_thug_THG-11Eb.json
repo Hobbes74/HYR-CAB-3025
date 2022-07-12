@@ -23,8 +23,8 @@
     "ChassisID": "chassisdef_thug_THG-11Eb",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8316840,
-        "Rarity": 4,
+        "Cost": 8310000,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -34,7 +34,7 @@
         "Details": "First deployed in 2760 on the SLDF's Royal units, the -11Eb upgrades the PPCs to extended range versions.",
         "Icon": "uixTxrIcon_thug"
     },
-    "simGameMechPartCost": 960000,
+    "simGameMechPartCost": 831000,
     "Version": 1,
     "Locations": [
         {

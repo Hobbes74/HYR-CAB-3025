@@ -22,7 +22,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 1910000,
-        "Rarity": 1,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -32,7 +32,7 @@
         "Details": "The only factory variant developed for the Stinger, the STG-3R replaces the machineguns with an additional Medium Laser and a single ton of armor.",
         "Icon": "uixTxrIcon_stinger"
     },
-    "simGameMechPartCost": 190000,
+    "simGameMechPartCost": 191000,
     "Version": 1,
     "Locations": [
         {

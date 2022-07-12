@@ -20,7 +20,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 12470000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -30,7 +30,7 @@
         "Details": "Introduced for use in the SLDF's elite Royal units, the -2R upgraded the original's heat sinks to the double standard to solve the Crusader's known heat issues. The SLDF engineers also gave it an Endo Steel internal structure, allowing to add Artemis IV guidance systems to the LRM launchers, while replacing the SRM launchers with four SRM-2 Streaks. Finally CASE was added to its side torsos, to better protect the missile reloads contained in them.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "simGameMechPartCost": 1250000,
+    "simGameMechPartCost": 1247000,
     "Version": 1,
     "Locations": [
         {
@@ -109,7 +109,7 @@
     "inventory": [
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_LRM_LRM15_0-STOCK",
+            "ComponentDefID": "Weapon_LRM_LRM15_ARTEMIS",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +186,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_LRM_LRM15_0-STOCK",
+            "ComponentDefID": "Weapon_LRM_LRM15_ARTEMIS",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -219,7 +219,7 @@
         },
 		{
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -230,10 +230,10 @@
         },
 		{
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 1,
+            "HardpointSlot": 2,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
@@ -241,7 +241,7 @@
         },
 		{
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -252,10 +252,10 @@
         },
 		{
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Weapon_SRM_SRM2_0-STOCK",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 1,
+            "HardpointSlot": 2,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

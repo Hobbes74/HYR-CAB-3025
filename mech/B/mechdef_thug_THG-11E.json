@@ -23,8 +23,8 @@
     "ChassisID": "chassisdef_thug_THG-11E",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8316840,
-        "Rarity": 4,
+        "Cost": 8310000,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -34,7 +34,7 @@
         "Details": "The original version of the Thug had Endo Steel internal structure, which allowed it to carry SRM-6s instead of SRM-4s, with the ammo protected with CASE bins, and its twin PPCs cooled down by eighteen double heat sinks.",
         "Icon": "uixTxrIcon_thug"
     },
-    "simGameMechPartCost": 960000,
+    "simGameMechPartCost": 831000,
     "Version": 1,
     "Locations": [
         {

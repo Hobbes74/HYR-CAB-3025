@@ -33,7 +33,7 @@
         "Details": "The Wasp was the first BattleMech design to carry jump jets, as part of a project sponsored the Terran Hegemony to create a fast and maneuverable scout. Its success led to it being the most numerous BattleMech available, despite being lightly armed and armored, carrying only a Medium Laser and an SRM-2 launcher.",
         "Icon": "uixTxrIcon_wasp"
     },
-    "simGameMechPartCost": 190000,
+    "simGameMechPartCost": 189000,
     "Version": 1,
     "Locations": [
         {

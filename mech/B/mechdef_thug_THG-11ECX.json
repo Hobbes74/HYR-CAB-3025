@@ -20,18 +20,18 @@
     "ChassisID": "chassisdef_thug_THG-11ECX",
     "HeraldryID": null,
     "Description": {
-        "Cost": 18888600,
+        "Cost": 18800000,
         "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Thug THG-11ECX",
         "Id": "mechdef_thug_THG-11ECX",
-        "Name": "Thug",
-        "Details": "A variant used by the Rim Worlds Republic during the Amaris Civil War and used as a headhunter against SLDF commanders, the -11ECX replaces the PPCs by ER Large Lasers, while the SRM-6 launchers have been increased from two to five. But the most radical changes that made it effective on its role are the Lostech electronics it carries, the ECM Stealth Suite and the Battle Computer, in addition to four jump jets.",Finally, a Null Signature System interfered with SLDF targeting systems.",
+        "Name": "Thug Jose",
+        "Details": "A variant used by the Rim Worlds Republic during the Amaris Civil War and used as a headhunter against SLDF commanders, the -11ECX replaces the PPCs by ER Large Lasers, while the SRM-6 launchers have been increased from two to five. But the most radical changes that made it effective on its role are the Lostech electronics it carries, the ECM Stealth Suite and the Battle Computer, in addition to four jump jets.",
         "Icon": "uixTxrIcon_thug"
     },
-    "simGameMechPartCost": 960000,
+    "simGameMechPartCost": 1880000,
     "Version": 1,
     "Locations": [
         {

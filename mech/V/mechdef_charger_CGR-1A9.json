@@ -16,7 +16,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 8730000,
-        "Rarity": 4,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -26,7 +26,7 @@
         "Details": "A rumored project being developed by the Draconis Combine based on the Capellan experiments with their Charger variants, the -1A9 is reported to use the less powerful engine of the -1A5 in order to upgrade four of the Small Lasers to Medium Lasers, while adding an LRM-20 launcher with two tons of reloads and four jump jets.",
         "Icon": "uixTxrIcon_charger"
     },
-    "simGameMechPartCost": 870000,
+    "simGameMechPartCost": 873000,
     "Version": 1,
     "Locations": [
         {

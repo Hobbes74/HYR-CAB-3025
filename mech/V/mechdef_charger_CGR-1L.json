@@ -18,14 +18,14 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 9400000,
-        "Rarity": 4,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Charger CGR-1L",
         "Id": "mechdef_charger_CGR-1L",
         "Name": "Charger",
-        "Details": "The CGR-1L variant is being supplied to House Liao by the Draconis Combine as part of the Kapetyn Accords. In order to address the Charger's lack of firepower, all the small lasers and two and half tons of armor were removed and replaced instead with a Large Laser and two Medium Lasers.",
+        "Details": "The CGR-1L variant is being supplied to House Liao by the Draconis Combine as part of the Kapetyn Accords. In order to address the Charger's lack of firepower, all the Small lasers and two and half tons of armor were removed and replaced instead with a Large Laser and two Medium Lasers.",
         "Icon": "uixTxrIcon_charger"
     },
     "simGameMechPartCost": 940000,

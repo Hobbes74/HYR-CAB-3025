@@ -23,7 +23,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 10640000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -33,7 +33,7 @@
         "Details": "This Lostech variant of the Dervish uses an XL Engine, while retaining the original's top speed. The weight savings have been applied to upgrading its LRM-10s to LRM-15s, while protecting its ammunition with a CASE ammo bin.",
         "Icon": "uixTxrIcon_dervish"
     },
-    "simGameMechPartCost": 1060000,
+    "simGameMechPartCost": 1064000,
     "Version": 1,
     "Locations": [
         {

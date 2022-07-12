@@ -24,7 +24,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 8120000,
-        "Rarity": 4,
+        "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -34,7 +34,7 @@
         "Details": "One of the most iconic BattleMech designs, the Crusader was first fielded during the Star League but soon exceeded expectations and became one of the best general BattleMechs, with its diverse array of weaponry allowing it to engage all sorts of targets at different ranges.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "simGameMechPartCost": 810000,
+    "simGameMechPartCost": 812000,
     "Version": 1,
     "Locations": [
         {

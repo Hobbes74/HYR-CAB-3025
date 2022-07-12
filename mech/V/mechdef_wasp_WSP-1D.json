@@ -17,7 +17,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2050000,
-        "Rarity": 1,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -27,7 +27,7 @@
         "Details": "As the Succession Wars continued, production issues at the Federated Suns caused it to replace the SRM-2 launcher with two Small Lasers and a flamer.",
         "Icon": "uixTxrIcon_wasp"
     },
-    "simGameMechPartCost": 210000,
+    "simGameMechPartCost": 205000,
     "Version": 1,
     "Locations": [
         {

@@ -17,17 +17,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2490000,
-        "Rarity": 0,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Mongoose MON-68",
         "Id": "mechdef_mongoose_MON-68",
         "Name": "Mongoose",
-        "Details": "This variant of the downgraded Mongoose MON-67 introduced in 3039 removes all the standard weaponry in exchange for a single Large Laser, the swap to a lighter 175 rated engine reducing the MON-68's ground speed by 10kmph but freeing up the weight to mount two additional heat sinks.",
+        "Details": "This variant of the downgraded Mongoose MON-67 introduced in 3039 removes all the standard weaponry in exchange for a single Large Laser, the swap to a lighter 175 rated engine reducing the MON-68's ground speed by 10 kph but freeing up the weight to mount two additional heat sinks.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 250000,
+    "simGameMechPartCost": 249000,
     "Version": 1,
     "Locations": [
         {

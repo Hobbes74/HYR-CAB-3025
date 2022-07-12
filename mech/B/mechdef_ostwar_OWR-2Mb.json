@@ -23,17 +23,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 19770000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Ostwar OWR-2Mb",
         "Id": "mechdef_ostwar_OWR-2Mb",
         "Name": "Royal Ostwar",
-        "Details": "The Royal Ostwar was introduced in 2620 as an upgrade to the original model. To satisfy the SLDF's requirements, Ostmann Industries equipped the design with an XL Engine, which gave it speeds similar to the Ostroc, and applied Endo Steel to its internal structure, as well as equipping it with 18 Double Heat Sinks. The changes allow the -2Mb to carry three ER Lasers, as well as a twin racks of SRM-6s.",
+        "Details": "The Royal Ostwar was introduced in 2620 as an upgrade to the original model. To satisfy the SLDF's requirements, Ostmann Industries equipped the design with an XL Engine, which gave it speeds similar to the Ostroc, and applied Endo Steel to its internal structure, as well as equipping it with eighteen Double Heat Sinks. The changes allow the -2Mb to carry three ER Lasers, as well as a twin racks of SRM-6s.",
         "Icon": "uixTxrIcon_ostwar"
     },
-    "simGameMechPartCost": 1980000,
+    "simGameMechPartCost": 1977000,
     "Version": 1,
     "Locations": [
         {

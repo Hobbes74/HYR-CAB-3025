@@ -16,7 +16,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 8730000,
-        "Rarity": 4,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -26,7 +26,7 @@
         "Details": "A Liao adaptation of the Chargers received from House Kurita as part of the Kapetyn Accords, the -1A5 completely changes its role from an armored scout to a more traditional assault one. The biggest change is the downgrading of the 'Mech's engine and its speed to 64.8 km/h and the removal of all the small lasers, which allowed for an AC/20 autocannon to be mounted, as well as two SRM-6 launchers and a Medium Laser.",
         "Icon": "uixTxrIcon_charger"
     },
-    "simGameMechPartCost": 870000,
+    "simGameMechPartCost": 873000,
     "Version": 1,
     "Locations": [
         {

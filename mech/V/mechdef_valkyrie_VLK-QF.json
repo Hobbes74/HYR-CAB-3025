@@ -27,7 +27,7 @@
         "Details": "An anti-infantry version of the Valkyrie, the -QF carries a Flamer instead of the Medium Laser.",
         "Icon": "uixTxrIcon_valkyrie"
     },
-    "simGameMechPartCost": 310000,
+    "simGameMechPartCost": 314000,
     "Version": 1,
     "Locations": [
         {

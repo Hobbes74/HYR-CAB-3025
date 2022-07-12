@@ -22,7 +22,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 11460000,
-        "Rarity": 5,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -32,7 +32,7 @@
         "Details": "In 2729 the SLDF adopted the Royal Ostroc, which featured ER Large Lasers and SRM-2 Streak missiles to replace the existing weapons, plus an upgrade of all heat sinks to the double version.",
         "Icon": "uixTxrIcon_ostroc"
     },
-    "simGameMechPartCost": 1150000,
+    "simGameMechPartCost": 1146000,
     "Version": 1,
     "Locations": [
         {

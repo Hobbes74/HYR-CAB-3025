@@ -20,7 +20,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2620000,
-        "Rarity": 0,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -30,7 +30,7 @@
         "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. The 66b is an upgraded version of the 66 that was used by the SLDF Royal units since 2740. It utilizes an XL Engine and double heat sinks with the weight saved used to upgrade the center-torso medium laser to an ER Large Laser.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 260000,
+    "simGameMechPartCost": 262000,
     "Version": 1,
     "Locations": [
         {

@@ -19,7 +19,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 9560000,
-        "Rarity": 4,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -29,7 +29,7 @@
         "Details": "The Thug was designed by Maltex Corporation as a direct competitor to the popular Warhammer BattleMech. First seeing production in 2572, the Thug sought to directly address some of the challenges which faced the Warhammer, chief of which was to increase armor protection without sacrificing firepower. The Thug carries two PPCs and a pair of SRM-6s, all cooled down by eighteen heat sinks.",
         "Icon": "uixTxrIcon_thug"
     },
-    "simGameMechPartCost": 960000,
+    "simGameMechPartCost": 956000,
     "Version": 1,
     "Locations": [
         {

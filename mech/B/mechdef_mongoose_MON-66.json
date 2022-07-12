@@ -25,7 +25,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2620000,
-        "Rarity": 0,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -35,7 +35,7 @@
         "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. Armed with one Small and three Medium Lasers, it packs more of a punch while keeping up with the Locust's speed. The original MON-66 version was also armed with a Beagle Active Probe.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 260000,
+    "simGameMechPartCost": 262000,
     "Version": 1,
     "Locations": [
         {

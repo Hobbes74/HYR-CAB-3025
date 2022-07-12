@@ -17,7 +17,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2050000,
-        "Rarity": 1,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -27,7 +27,7 @@
         "Details": "A peculiar variant made by House Liao, the -1L removes the Medium Laser and uses the saved weight to upgrade the short range missile launcher to an SRM-4.",
         "Icon": "uixTxrIcon_wasp"
     },
-    "simGameMechPartCost": 210000,
+    "simGameMechPartCost": 205000,
     "Version": 1,
     "Locations": [
         {

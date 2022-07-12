@@ -24,17 +24,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2620000,
-        "Rarity": 0,
+        "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Mongoose MON-69",
         "Id": "mechdef_mongoose_MON-69",
         "Name": "Mongoose",
-        "Details": "The original MON-66 was equipped with an Beagle Active Probe, its electronics allowing it to command and control a recon lance.  This chassis has managed to retain the electronic command suit of the probe, although all other Star League has been long lost and replaced with more current tech. The 69 retains the 66's one Small and one Medium Laser, while adding an SRM-2.",
+        "Details": "The original MON-66 was equipped with an Beagle Active Probe, its electronics allowing it to command and control a recon lance.  This chassis has managed to retain the electronic command suit of the probe, although all other Star League has been long lost and replaced with more current tech. The -69 retains the -66's one Small and one Medium Laser, while adding an SRM-2.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 260000,
+    "simGameMechPartCost": 262000,
     "Version": 1,
     "Locations": [
         {

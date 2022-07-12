@@ -23,7 +23,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2620000,
-        "Rarity": 0,
+        "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -33,7 +33,7 @@
         "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  In addition to removing the Beagle it also replaces the small laser with a pair of Flamers.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "simGameMechPartCost": 260000,
+    "simGameMechPartCost": 262000,
     "Version": 1,
     "Locations": [
         {

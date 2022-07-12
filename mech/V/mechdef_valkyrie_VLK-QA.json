@@ -27,7 +27,7 @@
         "Details": "An SLDF design, the Valkyrie is only produced in the Federated Suns capital world of New Avalon. Intended as a replacement for the Wasp and Stinger scout 'Mechs, the Valkyrie is widely used by House Davion's military. Designed as a scout and light 'Mech hunter, it carries an LRM-10 launcher for engaging hostile targets at long-range before moving in with its jump jets to finish them off with its Medium Laser.",
         "Icon": "uixTxrIcon_valkyrie"
     },
-    "simGameMechPartCost": 310000,
+    "simGameMechPartCost": 314000,
     "Version": 1,
     "Locations": [
         {
