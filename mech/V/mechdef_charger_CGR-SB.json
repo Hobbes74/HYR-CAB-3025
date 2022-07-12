@@ -1,7 +1,6 @@
 {
     "MechTags": {
         "items": [
-            "BLACKLISTED",
             "unit_mech",
             "unit_assault",
             "unit_release",
@@ -10,7 +9,7 @@
 			"unit_armor_high",
 			"unit_range_long",
             "unit_role_brawler",
-			"unit_role_scout"
+            "Kurita"
         ],
         "tagSetSourceFile": ""
     },
