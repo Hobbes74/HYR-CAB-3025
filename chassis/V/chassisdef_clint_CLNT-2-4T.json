@@ -1,14 +1,14 @@
 {
     "Description": {
-        "Cost": 3140000,
-        "Rarity": 1,
+        "Cost": 3480000,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
         "UIName": "Clint",
         "Id": "chassisdef_clint_CLNT-2-4T",
         "Name": "Clint",
-        "Details": "This variant of the Clint carries two AC2s in place of the single AC/5, giving it one of the longest ranges possible on such a small chassis. It also bears a single Medium Laser as a secondary weapon. Like the 1-2R variant, the 2-4T also has no jumping capability.",
+        "Details": "A variant that removes the left torso's Medium Laser and the AC/5 to mount instead two AC/2s on its right arm. This version also has no jumping ability, unlike the more common -2-3T.",
         "Icon": "uixTxrIcon_clint"
     },
     "MovementCapDefID": "movedef_clint_CLNT-1-2R",
@@ -196,5 +196,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Recon & Fire Support",
-    "YangsThoughts": "This variant of the Clint carries two Autocannon/2s in place of the single AC/5, crazy on a 40 ton chassis, but the range this gives the 'Mech is one of the best at this weight range. Like the 1-2R variant, the 2-4T also has no jumping capability."
+    "YangsThoughts": "A variant that removes the left torso's Medium Laser and the AC/5 to mount instead two AC/2s on its right arm. This version also has no jumping ability, unlike the more common -2-3T."
 }

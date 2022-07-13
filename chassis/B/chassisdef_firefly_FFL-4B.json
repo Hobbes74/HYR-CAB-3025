@@ -1,14 +1,14 @@
 {
     "Description": {
-        "Cost": 2800000,
-        "Rarity": 1,
+        "Cost": 3590000,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
         "UIName": "Firefly",
         "Id": "chassisdef_firefly_FFL-4B",
         "Name": "Firefly",
-        "Details": "Another 'Mech thought to be extinct until its reappearance with Wolf's Dragoons, the Firefly carries an LRM-5 and two laser batteries, one of three Medium Lasers, the other of four Small Lasers, all spread out through its torso and arms.",
+        "Details": "The last produced variant carried a LosTech anti-missile system, along with three Medium Lasers and the LRM-5. Due the start of the First Succession War and the destruction of the factory at Coventry, this variant became quickly extinct.",
         "Icon": "uixTxrIcon_firefly"
     },
     "MovementCapDefID": "movedef_firefly_FFL-4A",
@@ -225,5 +225,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Light Brawler",
-    "YangsThoughts": "No one knows where the Dragoons got these 'Mechs and they're not telling boss."
+    "YangsThoughts": "The last produced variant carried a LosTech anti-missile system, along with three Medium Lasers and the LRM-5. Due the start of the First Succession War and the destruction of the factory at Coventry, this variant became quickly extinct."
 }

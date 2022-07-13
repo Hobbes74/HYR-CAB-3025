@@ -1,6 +1,6 @@
 {
     "Description": {
-        "Cost": 2500000,
+        "Cost": 3000000,
         "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": "",
@@ -8,7 +8,7 @@
         "UIName": "Falcon",
         "Id": "chassisdef_falcon_FLC-4N",
         "Name": "Falcon",
-        "Details": "The Falcon was designed to hunt down recon 'Mechs and it carries above average armor than other 'Mechs of its class, along with a deadly weapons array. Unfortunately, few of these 'Mechs survived the Succession Wars.",
+        "Details": "An almost extinct model that reappeared on the battlefields with Wolf's Dragoons, the Falcon was designed as fast scout and light 'Mech hunter. Although it was considered undergunned with only one Medium Laser, two Small Lasers and two machineguns, the model's six tons of armor made it popular with Mechwarriors.",
         "Icon": "uixTxrIcon_falcon"
     },
     "MovementCapDefID": "movedef_falcon_FLC-4N",
@@ -194,5 +194,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Skirmisher",
-    "YangsThoughts": "The Falcon was designed to hunt down recon 'Mechs and it carries above average armor than other 'Mechs of its class, along with a deadly weapons array. Unfortunately, few of these 'Mechs survived the Succession Wars."
+    "YangsThoughts": "An almost extinct model that reappeared on the battlefields with Wolf's Dragoons, the Falcon was designed as fast scout and light 'Mech hunter. Although it was considered undergunned with only one Medium Laser, two Small Lasers and two machineguns, the model's six tons of armor made it popular with Mechwarriors."
 }

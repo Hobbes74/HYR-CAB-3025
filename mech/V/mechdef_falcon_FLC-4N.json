@@ -26,14 +26,14 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 3000000,
-        "Rarity": 1,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Falcon FLC-4N",
         "Id": "mechdef_falcon_FLC-4N",
         "Name": "Falcon",
-        "Details": "While originally sporting a weapons array similar to the Locust, Stinger and Wasp it was charged to defeat, the Falcon's six tons of StarGuard Type II armor provides it with vastly superior protection.",
+        "Details": "An almost extinct model that reappeared on the battlefields with Wolf's Dragoons, the Falcon was designed as fast scout and light 'Mech hunter. Although it was considered undergunned with only one Medium Laser, two Small Lasers and two machineguns, the model's six tons of armor made it popular with Mechwarriors.",
         "Icon": "uixTxrIcon_falcon"
     },
     "simGameMechPartCost": 300000,

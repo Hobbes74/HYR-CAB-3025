@@ -41,7 +41,7 @@
         "UIName": "Firefly FFL-4A",
         "Id": "mechdef_firefly_FFL-4A",
         "Name": "Firefly",
-        "Details": "Another 'Mech thought to be extinct until its reappearance with Wolf's Dragoons, the Firefly carries an LRM-5 and two laser batteries, one of three Medium Lasers, the other of four Small Lasers, all spread out through its torso and arms.",
+        "Details": "The Firefly is a BattleMech that reappeared in the Inner Sphere with Wolf's Dragoons arrival in 3005. While it isn't as fast as other scout 'Mechs, it has jump jets and carries a heavy weapons load of three Medium Lasers, three Small Lasers and one LRM-5, making it a threat even against heavier opponents.",
         "Icon": "uixTxrIcon_firefly"
     },
     "simGameMechPartCost": 359000,

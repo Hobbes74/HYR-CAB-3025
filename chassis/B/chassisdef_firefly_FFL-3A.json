@@ -8,7 +8,7 @@
         "UIName": "Firefly",
         "Id": "chassisdef_firefly_FFL-3A",
         "Name": "Firefly",
-        "Details": "The 3A adds a Target Acquisition Gear to the left arm, while retaining the Small Laser array of the FFL-4A.",
+        "Details": "The initial version of the Firefly, the -3A adds a Target Acquisition Gear to the left arm, while carrying four Small Lasers, three Medium Lasers and the LRM-5. To allow for all those weapons the chassis was upgraded and the engine was an extralight version, also equipped with double heat sinks.",
         "Icon": "uixTxrIcon_firefly"
     },
     "MovementCapDefID": "movedef_firefly_FFL-4A",
@@ -221,5 +221,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Light Brawler",
-    "YangsThoughts": "No one knows where the Dragoons got these 'Mechs and they're not telling boss."
+    "YangsThoughts": "The initial version of the Firefly, the -3A adds a Target Acquisition Gear to the left arm, while carrying four Small Lasers, three Medium Lasers and the LRM-5. To allow for all those weapons the chassis was upgraded and the engine was an extralight version, also equipped with double heat sinks."
 }

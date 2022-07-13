@@ -16,14 +16,14 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 2396430,
-        "Rarity": 3,
+        "Rarity": 4,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Toro TR-A-6",
         "Id": "mechdef_toro_TR-A-6",
         "Name": "Toro",
-        "Details": "The Toro was the Taurian Concordat's first indigenous BattleMech, based in captured Firebees, and took to the front lines against the Star League in the Reunification War. After the war, the League shut down and demolished all of the Toro factories by 2598 in the hope that it would crush Taurian nationalism, though there is no evidence it had the desired effect.",
+        "Details": "The Toro was the first BattleMech designed by the Taurians, with a PPC and two LRM-5 missile racks and served during the Reunification War. A symbol of Taurian nationalism, several machines are know to still be in service despite the Star League's efforts in removing the model from existance during their occupation of the Concordat.",
         "Icon": "uixTxrIcon_toro"
     },
     "simGameMechPartCost": 239643,

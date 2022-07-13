@@ -33,10 +33,10 @@
         "UIName": "Clint CLNT-2-3T",
         "Id": "mechdef_clint_CLNT-2-3T",
         "Name": "Clint",
-        "Details": "The Clint was primarily designed as a cheap recon unit, with the capabilities of a well-armed, low-end medium weight 'Mech, and in this regard it serves well. With a top speed of 97.2 km/h and a jumping capability of one hundred and eighty meters, the Clint can easily keep up with other recon elements and maneuver through mountainous or urban terrain.",
+        "Details": "The Clint is an old Star League model designed as medium scout with jump jets and carrying an AC/5 and two Medium Lasers. Despite the destruction of its factories during the Succession Wars, the BattleMech has seen widespread use throughout human space although its light armor has taken its toll on the existing machines."
         "Icon": "uixTxrIcon_clint"
     },
-    "simGameMechPartCost": 410000,
+    "simGameMechPartCost": 405000,
     "Version": 1,
     "Locations": [
         {

@@ -18,17 +18,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 3940000,
-        "Rarity": 1,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Clint CLNT-1-2R",
         "Id": "mechdef_clint_CLNT-1-2R",
         "Name": "Clint",
-        "Details": "The Clint was primarily designed as a cheap recon unit, with the capabilities of a well-armed, low-end medium weight 'Mech, and in this regard it serves well. The 1-2R Clint was the original prototype variant that carried an Autocannon/10 with a single Medium Laser as a secondary weapon and no jump jets. Very few of these were produced, though attempts to emulate them have appeared.",
+        "Details": "The rarest of the Clint variants, the -1-2R carries an AC/10 on its right arm and a single Medium Laser on its center torso. To make room for those changes, it carries no jump jets.",
         "Icon": "uixTxrIcon_clint"
     },
-    "simGameMechPartCost": 390000,
+    "simGameMechPartCost": 394000,
     "Version": 1,
     "Locations": [
         {

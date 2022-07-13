@@ -1,14 +1,14 @@
 {
     "Description": {
-        "Cost": 4048000,
-        "Rarity": 3,
+		"Cost": 4048000,
+		"Rarity": 4,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
         "UIName": "Talos",
         "Id": "chassisdef_talos_TLS-1B",
         "Name": "Talos",
-        "Details": "A Taurian design dating back to the Reunification War, the Talos kept its popularity with pilots due to its easy handling, improved heat management and solid 8.5 tons of standard armor. Despite being rotated out of production early in the Reunification War, a few Talos remained in service into the Succession Wars era.",
+        "Details": "The Talos was the workhorse of the Taurian Defense Force during the Reunification War, carrying an AC/10, twin LRM-5s and an SRM-6 launcher. Although the design was later discontinued for more advanced models, the material shortages during the Succession Wars have caused these 'Mechs to have been placed back in service.",
         "Icon": "uixTxrIcon_talos"
     },
     "MovementCapDefID": "movedef_talos_TLS-1B",
@@ -267,5 +267,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper Brawler Tank",
-    "YangsThoughts": "A Taurian design dating back to the Reunification War, the Talos kept its popularity with pilots due to its easy handling, improved heat management and solid 8.5 tons of standard armor. Despite being rotated out of production early in the Reunification War, a few Talos remained in service into the Succession Wars era."
+    "YangsThoughts": "The Talos was the workhorse of the Taurian Defense Force during the Reunification War, carrying an AC/10, twin LRM-5s and an SRM-6 launcher. Although the design was later discontinued for more advanced models, the material shortages during the Succession Wars have caused these 'Mechs to have been placed back in service."
 }

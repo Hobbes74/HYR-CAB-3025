@@ -18,18 +18,18 @@
     "ChassisID": "chassisdef_falcon_FLC-4Nb",
     "HeraldryID": null,
     "Description": {
-        "Cost": 3000000,
-        "Rarity": 1,
+        "Cost": 6000000,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Falcon FLC-4Nb",
         "Id": "mechdef_falcon_FLC-4Nb",
         "Name": "Royal Falcon",
-        "Details": "Built for the Royal SLDF Divisions at the captured Roe Weapon Systems plant on Apollo during the Amaris Civil War, the so-called Royal Falcon carried an experimental Parti-Kill Snub-Nose PPC backed up by two medium lasers. It was also equipped with double heat-sinks, and was built on a Duralyte 300 Endo-Steel chassis. All known examples and design specs were taken with the Exodus Fleet.",
+        "Details": "The Royal Falcon was designed and produced by the SLDF during the Amaris Civil under General Kerensky's orders. The engineers replaced the chassis with a lighter Endo Steel internal structure and equipped its engine with double heat sinks to allow the Royal Falcon to carry a Snub PPC and two Medium Lasers.",
         "Icon": "uixTxrIcon_falcon"
     },
-    "simGameMechPartCost": 300000,
+    "simGameMechPartCost": 600000,
     "Version": 1,
     "Locations": [
         {

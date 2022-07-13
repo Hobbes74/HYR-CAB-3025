@@ -21,17 +21,17 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 3590000,
-        "Rarity": 1,
+        "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Firefly FFL-4B",
         "Id": "mechdef_firefly_FFL-4B",
         "Name": "Firefly",
-        "Details": "The Firefly is a well-armed recon 'Mech that tips the scales at thirty tons.It has a maximum ground speed of 86.4 km/h and can jump up to one hundred and twenty meters. As a scout 'Mech, the Firefly gives average performance with its energy weapon-heavy arsenal and is useful in both a recon and in a guerrilla fighter role.",
+        "Details": "The last produced variant carried a LosTech anti-missile system, along with three Medium Lasers and the LRM-5. Due the start of the First Succession War and the destruction of the factory at Coventry, this variant became quickly extinct.",
         "Icon": "uixTxrIcon_firefly"
     },
-    "simGameMechPartCost": 360000,
+    "simGameMechPartCost": 359000,
     "Version": 1,
     "Locations": [
         {
