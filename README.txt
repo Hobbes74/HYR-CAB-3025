@@ -19,8 +19,8 @@ It adds the following BattleMech models to the Hyades Rim mod and all of their a
 * Ostwar
 * Stinger
 * Talos
-* Toro
 * Thug
+* Toro
 * Valkyrie
 * Wasp
 * Wolfhound
