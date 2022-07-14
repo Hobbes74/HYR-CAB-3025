@@ -7,7 +7,15 @@
 			"unit_role_brawler",
 			"unit_role_sniper",
 			"unit_lance_tank",
-            "TaurianConcordat"
+			"ComStar",
+			"Locals",
+            "TaurianConcordat",
+			"TaurianPirates",
+			"TaurusMajorisMining",
+			"TaurusTerritorialIndustries",
+			"SteropeDefenseIndustries",
+			"PinardProtectorateLimited",
+			"VandenbergMechanizedIndustries"
 		],
 		"tagSetSourceFile": ""
 	},

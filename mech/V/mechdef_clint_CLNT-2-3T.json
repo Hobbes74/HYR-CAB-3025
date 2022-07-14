@@ -33,7 +33,7 @@
         "UIName": "Clint CLNT-2-3T",
         "Id": "mechdef_clint_CLNT-2-3T",
         "Name": "Clint",
-        "Details": "The Clint is an old Star League model designed as medium scout with jump jets and carrying an AC/5 and two Medium Lasers. Despite the destruction of its factories during the Succession Wars, the BattleMech has seen widespread use throughout human space although its light armor has taken its toll on the existing machines."
+        "Details": "The Clint is an old Star League model designed as medium scout with jump jets and carrying an AC/5 and two Medium Lasers. Despite the destruction of its factories during the Succession Wars, the BattleMech has seen widespread use throughout human space although its light armor has taken its toll on the existing machines.",
         "Icon": "uixTxrIcon_clint"
     },
     "simGameMechPartCost": 405000,

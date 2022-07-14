@@ -8,7 +8,7 @@
         "UIName": "Mongoose",
         "Id": "chassisdef_mongoose_MON-70",
         "Name": "Mongoose",
-        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  Armed with one Small and three Medium Lasers, it packs more of a punch while keeping up with the Locust's speed.",
+        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  In addition to a trio of Medium Lasers, this variant also carries a pair of Flamers.",
         "Icon": "uixTxrIcon_mongoose"
     },
     "MovementCapDefID": "movedef_mongoose_MON-66",
@@ -221,5 +221,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
-    "YangsThoughts": "Must be something about those chicken legs boss, the Mongoose is one of the faster 'Mechs out there.  Combined with its firepower and durability, I think any of our Scouts would prefer this over a Locust."
+    "YangsThoughts": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust.  In addition to a trio of Medium Lasers, this variant also carries a pair of Flamers."
 }

@@ -9,7 +9,11 @@
 			"unit_armor_low",
             "unit_role_vanguard",
 			"unit_speed_high",
-			"ComStar"
+			"SLDF",
+			"ComStar",
+			"DeepRaiders",
+			"BrotherhoodOfRandis",
+			"NiopsAssociation"
         ],
         "tagSetSourceFile": ""
     },

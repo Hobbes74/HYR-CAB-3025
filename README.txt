@@ -27,5 +27,5 @@ It adds the following BattleMech models to the Hyades Rim mod and all of their a
 
 Attributions
 
-This pack was created by Hobbes, with all the artwork made by DarkKhaos and it is made available under a Creative Commons, No Commercial, Attribution, Share Alike (CC BY-NC-SA 4.0) license.
+This pack was created by Hobbes, with all the artwork made by DarkKhaos and it is made available under a Creative Commons, No Commercial, Attribution (CC BY-NC 4.0) license.
 
