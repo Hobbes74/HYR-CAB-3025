@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_thugBase-001",
     "PrefabBase": "thug",
     "Tonnage": 80,
-    "InitialTonnage": 25,
+    "InitialTonnage": 28,
     "weightClass": "ASSAULT",
     "BattleValue": 7718000,
     "Heatsinks": 30,
