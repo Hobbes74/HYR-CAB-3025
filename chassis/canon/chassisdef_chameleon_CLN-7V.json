@@ -1,0 +1,252 @@
+{
+    "Description": {
+        "Cost": 4100000,
+        "Rarity": 1,
+        "Purchasable": true,
+        "Manufacturer": "",
+        "Model": "",
+        "UIName": "Chameleon",
+        "Id": "chassisdef_chameleon_CLN-7V",
+        "Name": "Chameleon",
+        "Details": "Best known as the premier training 'Mech across the Inner Sphere for hundreds of years. Pressed into service to fight in the Periphery.",
+        "Icon": "uixTxrIcon_chameleon"
+    },
+    "MovementCapDefID": "movedef_chameleon_CLN-7V",
+    "PathingCapDefID": "pathingdef_medium",
+    "HardpointDataDefID": "hardpointdatadef_chameleon",
+    "PrefabIdentifier": "chrprfmech_chameleonbase-001",
+    "PrefabBase": "chameleon",
+    "Tonnage": 50,
+    "InitialTonnage": 30,
+    "weightClass": "MEDIUM",
+    "BattleValue": 4000000,
+    "Heatsinks": 0,
+    "TopSpeed": 120,
+    "TurnRadius": 90,
+    "MaxJumpjets": 6,
+    "Stability": 130,
+    "StabilityDefenses": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SpotterDistanceMultiplier": 1,
+    "VisibilityMultiplier": 1,
+    "SensorRangeMultiplier": 1,
+    "Signature": 0,
+    "Radius": 5,
+    "PunchesWithLeftArm": true,
+    "MeleeDamage": 60,
+    "MeleeInstability": 50,
+    "MeleeToHitModifier": 0,
+    "DFADamage": 55,
+    "DFAToHitModifier": 0,
+    "DFASelfDamage": 55,
+    "DFAInstability": 55,
+    "Locations": [
+        {
+            "Location": "Head",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "LeftArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 120,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "CenterTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 160,
+            "MaxRearArmor": 80,
+            "InternalStructure": 80
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [
+				{
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 120,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 120,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 120,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        }
+    ],
+    "LOSSourcePositions": [
+        {
+            "x": 0,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 3.5,
+            "y": 13,
+            "z": 0
+        },
+        {
+            "x": -3.5,
+            "y": 13,
+            "z": 0
+        }
+    ],
+    "LOSTargetPositions": [
+        {
+            "x": 0,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 3.5,
+            "y": 13,
+            "z": 0
+        },
+        {
+            "x": -3.5,
+            "y": 13,
+            "z": 0
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 0
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 0
+        }
+    ],
+    "VariantName": "CLN-7V",
+    "ChassisTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "StockRole": "Scout & Skirmisher",
+    "YangsThoughts": "Best known as the premier training 'Mech across the Inner Sphere for hundreds of years. Pressed into service to fight in the Periphery.",
+    "FixedEquipment" : [
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Gear_General_Targeting_Baffle",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Gear_General_Targeting_Baffle",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
+    ]
+}
