@@ -1,9 +1,9 @@
 {
     "Name": "HYR CAB",
     "Enabled": false,
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Adds to Hyades Rim mod the 2750 and 3025 eras BattleMechs of the Community Asset Bundle.",
-    "Author": "Hobbes et al.",
+    "Author": "Hobbes et al.",	
 	"DependsOn": [ "CAB-3025", "Hyades Rim" ],
 	"Manifest": [  	
 		{ "Type": "ChassisDef", "Path": "chassis/canon" },
@@ -17,6 +17,7 @@
 		{ "Type": "MechDef", "Path": "mech/hyadesrim/P" },
 		{ "Type": "MechDef", "Path": "mech/hyadesrim/Q" },
 		{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
-		{ "Type": "Sprite", "Path": "portraits" }
+		{ "Type": "Sprite", "Path": "portraits" },
+		{ "Type": "WeaponDef", "Path": "weapon" }
     ]
 }
