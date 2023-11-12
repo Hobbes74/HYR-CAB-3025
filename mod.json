@@ -1,7 +1,7 @@
 {
-    "Name": "HYR CAB",
+    "Name": "CAB-3025-HyadesRim",
     "Enabled": false,
-    "Version": "1.1.1",
+    "Version": "9.4.2",
     "Description": "Adds to Hyades Rim mod the 2750 and 3025 eras BattleMechs of the Community Asset Bundle.",
     "Author": "Hobbes et al.",	
 	"DependsOn": [ "CAB-3025", "Hyades Rim" ],
