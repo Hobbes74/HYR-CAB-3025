@@ -14,7 +14,7 @@
     "MovementCapDefID": "movedef_nighthawk_NTK-2Q",
     "PathingCapDefID": "pathingdef_light",
     "HardpointDataDefID": "hardpointdatadef_nighthawk",
-    "PrefabIdentifier": "chrPrfMech_nighthawkBase-001",
+    "PrefabIdentifier": "chrprfmech_nighthawkBase-001",
     "PrefabBase": "nighthawk",
     "Tonnage": 35,
     "InitialTonnage": 14.0,

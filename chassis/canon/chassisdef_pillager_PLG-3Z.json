@@ -14,7 +14,7 @@
     "MovementCapDefID": "movedef_pillager_PLG-1N",
     "PathingCapDefID": "pathingdef_assault",
     "HardpointDataDefID": "hardpointdatadef_pillager",
-    "PrefabIdentifier": "chrPrfMech_331pillagerbase-001",
+    "PrefabIdentifier": "chrprfmech_pillagerbase-001",
     "PrefabBase": "pillager",
     "Tonnage": 100,
     "InitialTonnage": 35,

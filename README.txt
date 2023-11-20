@@ -63,7 +63,6 @@ It adds the following BattleMech models to the Hyades Rim mod and all of their a
 
 Attributions
 
-This add-on was created by Hobbes, with all the artwork made by DarkKhaos and it is made available under a Creative Commons, No Commercial, Attribution (CC BY-NC 4.0) license.
+This add-on was created by Hobbes, with all the artwork made by DarkKhaos and it is made available under a GNU-GPL license.
 
-For the attributions related to the CAB and its 'Mech models please check its specific license.
-
+For the attributions related to the CAB and its 'Mech models please check the CAB-3025 license file.
