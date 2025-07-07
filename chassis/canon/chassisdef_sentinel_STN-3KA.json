@@ -58,7 +58,12 @@
         },
         {
             "Location": "LeftArm",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+			],
             "Tonnage": 0,
             "InventorySlots": 8,
             "MaxArmor": 60,
@@ -94,7 +99,16 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 100,
@@ -184,7 +198,9 @@
     ],
     "VariantName": "STN-3KA",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.80-0.80-0.80"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Sniper",

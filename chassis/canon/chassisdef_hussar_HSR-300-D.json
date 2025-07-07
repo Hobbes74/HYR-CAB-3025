@@ -195,7 +195,9 @@
     ],
     "VariantName": "HSR-300-D",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.75-0.75-0.75"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Extremely Fast Scout",

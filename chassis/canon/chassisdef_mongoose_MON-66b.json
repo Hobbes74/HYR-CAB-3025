@@ -198,7 +198,9 @@
     ],
     "VariantName": "MON-66b",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.05-1.05-1.05"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Sniper & Scout",

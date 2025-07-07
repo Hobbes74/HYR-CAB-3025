@@ -218,7 +218,9 @@
     ],
     "VariantName": "CLN-7V",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.90-0.90-0.90",
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Skirmisher",

@@ -97,7 +97,7 @@
         "Id": "mechdef_ostscout_OTT-7J",
         "Name": "Ostscout",
         "Details": "The Ostscout was designed as a pure recon BattleMech by Ostmann Industries. The Ostcout would be hard-pressed to win a fight against all but the lightest 'Mechs. A poor combatant, the 'Mech excels at operating deep behind enemy lines, gathering as much information as possible about the terrain and the disposition of enemy forces.",
-        "Icon": "uixTxrIcon_phoenixhawk"
+        "Icon": "uixTxrIcon_ostscout"
     },
     "simGameMechPartCost": 470000,
     "Version": 1,

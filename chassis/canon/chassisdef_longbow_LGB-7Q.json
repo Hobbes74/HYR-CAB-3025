@@ -201,10 +201,12 @@
         }
     ],
     "VariantName": "LGB-7Q",
-    "ChassisTags": {
-        "items": [],
-        "tagSetSourceFile": ""
-    },
+	"ChassisTags": {
+		"items": [
+			"mr-resize-0.95-0.95-0.95"
+		],
+		"tagSetSourceFile": ""
+	},
     "StockRole": "Heavy Artillery and Fire Support",
     "YangsThoughts": "With the number of LRMs the LGB-7Q can toss into the sky, our enemies are going to be fighting in the shade.  Yeah, I couldn't resist a good Spartan joke... or is that more an Archer joke?",
     "FixedEquipment" : [

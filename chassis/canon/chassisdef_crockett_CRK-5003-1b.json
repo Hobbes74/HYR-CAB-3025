@@ -207,7 +207,9 @@
     ],
     "VariantName": "CRK-5003-1b",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.10-1.10-1.10"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Cavalry",

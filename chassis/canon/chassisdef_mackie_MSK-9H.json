@@ -15,7 +15,7 @@
     "MovementCapDefID": "movedef_mackie_MSK-9H",
     "PathingCapDefID": "pathingdef_assault",
     "HardpointDataDefID": "hardpointdatadef_mackie",
-    "PrefabIdentifier": "chrPrfMech_mackiebase-001",
+    "PrefabIdentifier": "chrprfmech_mackiebase-001",
     "PrefabBase": "mackie",
     "Tonnage": 100,
     "InitialTonnage": 35.5,
@@ -206,7 +206,9 @@
     ],
     "VariantName": "MSK-9H",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.10-1.10-1.10"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut",

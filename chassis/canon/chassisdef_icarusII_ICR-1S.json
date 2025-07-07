@@ -195,10 +195,12 @@
         }
     ],
     "VariantName": "ICR-1S",
-    "ChassisTags": {
-        "items": [],
-        "tagSetSourceFile": ""
-    },
+	"ChassisTags": {
+		"items": [
+			"mr-resize-0.80-0.80-0.80"
+		],
+		"tagSetSourceFile": ""
+	},
     "StockRole": "Scout & Sniper",
     "YangsThoughts": "The Icarus II is an old school Leaguer 'Mech, the first one House Marik mass produced.  By today's standards, it is a bit slow for its size.  However, the jump jets provide a nice maneuverability boost and it has a decent compliment of weapons crammed into that 40 ton frame, so I would feel safe piloting one.  Just be careful not to jump too close to the sun Commander.",
     "FixedEquipment" : [

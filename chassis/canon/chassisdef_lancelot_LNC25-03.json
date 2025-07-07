@@ -202,7 +202,9 @@
     ],
     "VariantName": "LNC25-03",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.05-1.05-1.05"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Direct-Fire Support",

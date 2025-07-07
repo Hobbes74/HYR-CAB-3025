@@ -210,7 +210,9 @@
     ],
     "VariantName": "CRD-3R",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.95-0.95-0.95"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support",

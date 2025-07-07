@@ -198,7 +198,9 @@
     ],
     "VariantName": "MON-69",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.05-1.05-1.05"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",

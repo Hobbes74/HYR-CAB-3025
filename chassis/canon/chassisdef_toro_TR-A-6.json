@@ -181,7 +181,9 @@
     ],
     "VariantName": "TR-A-6",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.90-0.90-0.90"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper Flanker Vanguard",

@@ -185,7 +185,9 @@
     ],
     "VariantName": "MON-68",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.05-1.05-1.05"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout",

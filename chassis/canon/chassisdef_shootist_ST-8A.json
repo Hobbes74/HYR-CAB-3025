@@ -9,7 +9,7 @@
         "Id": "chassisdef_shootist_ST-8A",
         "Name": "Shootist",
         "Details": "The Shootist first saw service in 2621 as a heavily armored, electronic warfare equipped command 'Mech for SLDF Royal BattleMech Regiments., until the BattleMaster eclipsed the Shootist in its intended role as a command vehicle.  The Shootist's balanced mix of weapons and speed, and its heavy armor gave it a new role: juggernaut for close-combat heavy lances, and later, a bodyguard unit for command lances. This role never proved favorable to the longevity of the Shootist.",
-        "Icon": "uixTxrIcon_battlemaster"
+        "Icon": "uixTxrIcon_shootist"
     },
 	"MovementCapDefID": "movedef_shootist_ST-8A",
 	"PathingCapDefID": "pathingdef_assault",
@@ -216,7 +216,7 @@
     ],
     "VariantName": "ST-8A",
     "ChassisTags": {
-    "	items": [],
+		"items": [],
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernault & Close Assault",

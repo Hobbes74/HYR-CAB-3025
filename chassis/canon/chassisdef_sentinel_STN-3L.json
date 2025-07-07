@@ -58,7 +58,16 @@
         },
         {
             "Location": "LeftArm",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+			],
             "Tonnage": 0,
             "InventorySlots": 8,
             "MaxArmor": 60,
@@ -85,7 +94,16 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 120,
@@ -184,7 +202,9 @@
     ],
     "VariantName": "STN-3L",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.80-0.80-0.80"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Sniper",

@@ -193,7 +193,9 @@
     ],
     "VariantName": "SPR-4F",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.75-0.75-0.75"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Flanker and Missile Support",

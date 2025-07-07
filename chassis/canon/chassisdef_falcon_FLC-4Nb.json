@@ -20,7 +20,7 @@
     "InitialTonnage": 13.5,
     "weightClass": "LIGHT",
     "BattleValue": 3907000,
-    "Heatsinks": 0,
+    "Heatsinks": 30,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "MaxJumpjets": 6,
@@ -60,6 +60,10 @@
             "Location": "LeftArm",
             "Hardpoints": [
                 {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
                     "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
@@ -74,6 +78,10 @@
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
                     "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
@@ -86,7 +94,12 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [			
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+			],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 100,
@@ -96,6 +109,10 @@
         {
             "Location": "RightTorso",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "AntiPersonnel",
                     "Omni": false
@@ -110,6 +127,10 @@
         {
             "Location": "RightArm",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
@@ -190,7 +211,9 @@
     ],
     "VariantName": "FLC-4Nb",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.80-0.80-0.80"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Recon and Skirmisher",

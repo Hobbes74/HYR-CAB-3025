@@ -218,7 +218,9 @@
     ],
     "VariantName": "CRD-1R",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.95-0.95-0.95"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Skirmisher & Brawler",

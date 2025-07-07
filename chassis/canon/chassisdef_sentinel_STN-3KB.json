@@ -58,7 +58,12 @@
         },
         {
             "Location": "LeftArm",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+			],
             "Tonnage": 0,
             "InventorySlots": 8,
             "MaxArmor": 60,
@@ -188,7 +193,9 @@
     ],
     "VariantName": "STN-3KB",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.80-0.80-0.80"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Sniper",

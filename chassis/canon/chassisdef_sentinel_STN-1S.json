@@ -1,30 +1,30 @@
 {
     "Description": {
-        "Cost": 5600000,
-        "Rarity": 2,
+        "Cost": 3400000,
+        "Rarity": 1,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Lancelot",
-        "Id": "chassisdef_lancelot_LNC25-02",
-        "Name": "Lancelot",
-        "Details": "The Lancelot did not survive the loss of Star League technology well. With a new maximum speed of only 64.8 km/h the thin-skinned Lancelot makes for an easy target for other 'Mechs of its weight class, and the less efficient heat dissipation system makes it unable to unleash its full firepower safely and consistently.",
-        "Icon": "uixTxrIcon_lancelot"
+        "UIName": "Sentinel",
+        "Id": "chassisdef_sentinel_STN-1S",
+        "Name": "Sentinel",
+        "Details": "The original production version of the Sentinel. Its primary weapons were a AC/2 and an SRM-4 which were later replaced by more advanced models in the Star League STN-3K version.",
+        "Icon": "uixTxrIcon_sentinel"
     },
-    "MovementCapDefID": "movedef_lancelot_LNC25-02",
-    "PathingCapDefID": "pathingdef_heavy",
-    "HardpointDataDefID": "hardpointdatadef_lancelot",
-    "PrefabIdentifier": "chrprfmech_lancelotbase-001",
-    "PrefabBase": "lancelot",
-    "Tonnage": 60,
-    "InitialTonnage": 23.5,
-    "weightClass": "HEAVY",
-    "BattleValue": 5383000,
+    "MovementCapDefID": "movedef_sentinel_STN-3K",
+    "PathingCapDefID": "pathingdef_medium",
+	"HardpointDataDefID": "hardpointdatadef_sentinel",
+	"PrefabIdentifier": "chrprfmech_sentinelbase-001",
+	"PrefabBase": "sentinel",
+    "Tonnage": 40,
+    "InitialTonnage": 21.5,
+    "weightClass": "MEDIUM",
+    "BattleValue": 3610000,
     "Heatsinks": 0,
-    "TopSpeed": 150,
+    "TopSpeed": 210,
     "TurnRadius": 90,
-    "MaxJumpjets": 4,
-    "Stability": 160,
+    "MaxJumpjets": 6,
+    "Stability": 130,
     "StabilityDefenses": [
         0,
         0,
@@ -37,15 +37,15 @@
     "VisibilityMultiplier": 1,
     "SensorRangeMultiplier": 1,
     "Signature": 0,
-    "Radius": 8,
-    "PunchesWithLeftArm": false,
-    "MeleeDamage": 40,
-    "MeleeInstability": 60,
+    "Radius": 5,
+    "PunchesWithLeftArm": true,
+    "MeleeDamage": 35,
+    "MeleeInstability": 40,
     "MeleeToHitModifier": 0,
-    "DFADamage": 75,
+    "DFADamage": 50,
     "DFAToHitModifier": 0,
-    "DFASelfDamage": 75,
-    "DFAInstability": 75,
+    "DFASelfDamage": 50,
+    "DFAInstability": 50,
     "Locations": [
         {
             "Location": "Head",
@@ -60,11 +60,25 @@
             "Location": "LeftArm",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Ballistic",
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+			],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 60,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -73,57 +87,16 @@
                 }
             ],
             "Tonnage": 0,
-            "InventorySlots": 8,
-            "MaxArmor": 100,
-            "MaxRearArmor": -1,
-            "InternalStructure": 50
-        },
-        {
-            "Location": "LeftTorso",
-            "Hardpoints": [],
-            "Tonnage": 0,
             "InventorySlots": 10,
-            "MaxArmor": 140,
-            "MaxRearArmor": 70,
-            "InternalStructure": 70
+            "MaxArmor": 100,
+            "MaxRearArmor": 50,
+            "InternalStructure": 50
         },
         {
             "Location": "CenterTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                }
-            ],
-            "Tonnage": 0,
-            "InventorySlots": 4,
-            "MaxArmor": 200,
-            "MaxRearArmor": 100,
-            "InternalStructure": 100
-        },
-        {
-            "Location": "RightTorso",
-            "Hardpoints": [
-                {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                }
-			],
-            "Tonnage": 0,
-            "InventorySlots": 10,
-            "MaxArmor": 140,
-            "MaxRearArmor": 70,
-            "InternalStructure": 70
-        },
-        {
-            "Location": "RightArm",
-            "Hardpoints": [
-                {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -132,87 +105,114 @@
                 }
             ],
             "Tonnage": 0,
-            "InventorySlots": 8,
+            "InventorySlots": 4,
+            "MaxArmor": 120,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
             "MaxArmor": 100,
-            "MaxRearArmor": -1,
+            "MaxRearArmor": 50,
             "InternalStructure": 50
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+			],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 60,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
         },
         {
             "Location": "LeftLeg",
             "Hardpoints": [],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 140,
+            "MaxArmor": 100,
             "MaxRearArmor": -1,
-            "InternalStructure": 70
+            "InternalStructure": 50
         },
         {
             "Location": "RightLeg",
             "Hardpoints": [],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 140,
+            "MaxArmor": 100,
             "MaxRearArmor": -1,
-            "InternalStructure": 70
+            "InternalStructure": 50
         }
     ],
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 13,
-            "z": 1
+            "y": 12,
+            "z": 0
         },
         {
             "x": 3,
-            "y": 13,
+            "y": 12,
             "z": 0
         },
         {
             "x": -3,
-            "y": 13,
+            "y": 12,
             "z": 0
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 13,
-            "z": 1
+            "y": 12,
+            "z": 0
         },
         {
             "x": 3,
-            "y": 13,
+            "y": 12,
             "z": 0
         },
         {
             "x": -3,
-            "y": 13,
+            "y": 12,
             "z": 0
         },
         {
-            "x": 2,
-            "y": 5,
+            "x": 2.5,
+            "y": 6,
             "z": 0
         },
         {
-            "x": -2,
-            "y": 5,
+            "x": -2.5,
+            "y": 6,
             "z": 0
         }
     ],
-    "VariantName": "LNC25-02",
+    "VariantName": "STN-1S",
     "ChassisTags": {
         "items": [
-			"mr-resize-1.05-1.05-1.05"
+			"mr-resize-0.80-0.80-0.80"
 		],
         "tagSetSourceFile": ""
     },
-    "StockRole": "Sniper & Direct-Fire Support",
-    "YangsThoughts": "The Lancelot is an awesome star league platform that has suffered from the loss of the double heat sinks and smaller engine. As the 'Mech comes stock it is thinly armored and can't make use of all it's weapons consistently because of low heat dissipation. On the bright side, it has no ammo dependency, but still has massive potential fire power.",
+    "StockRole": "Scout & Sniper",
+    "YangsThoughts": "The Sentinel makes for an interesting skirmisher or Medium class observation 'Mech.  It still generally underperforms in most areas except speed, but it can throw a punch or two with that Autocannon, and has survivability compared to other scout designs.",
     "FixedEquipment" : [
         {
-            "MountedLocation" : "LeftTorso",
-            "ComponentDefID" : "Gear_General_Intercept_System",
+            "MountedLocation" : "Head",
+            "ComponentDefID" : "Gear_General_Rangefinder_Suite",
             "SimGameUID" : "",
             "ComponentDefType" : "Upgrade",
             "HardpointSlot" : -1,
@@ -222,5 +222,5 @@
             "prefabName" : null,
             "hasPrefabName" : false
         }
-    ]
+	]
 }

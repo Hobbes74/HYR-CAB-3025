@@ -198,7 +198,9 @@
     ],
     "VariantName": "THE-F",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-0.55-0.55-0.55"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "Support & Scout",

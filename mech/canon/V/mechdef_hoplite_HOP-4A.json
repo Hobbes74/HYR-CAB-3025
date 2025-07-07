@@ -66,8 +66,8 @@
     "UIName": "Hoplite HOP-4A",
     "Id": "mechdef_hoplite_HOP-4A",
     "Name": "Hoplite",
-    "Details": "Conceived by Martinson Armaments of Terra in 2578 as an infantry support 'Mech, the Hoplite first saw service with the newly formed Star League Defense Force during the Reunification War before being relegated to Terran Hegemony militia units in the twenty-seventh century. Intended for infantry support, the Hoplite is slow for a medium 'Mech with a top speed of only 64.8 km/h. However its eleven and a half tons of armor and heavy arsenal, both impressive for a 'Mech of its size, makes the Hoplite a rugged machine able to fight its way out of most situations using superior firepower. Effectively identical to the original Hoplite, the 4C carries as its primary weapon a Luxor HV Autocannon/10, which allows it to put a good amount of damage on a target, with a low amount of heat. The 'Mech is also armed with a Conan/5 LRM-5 launcher.",
-	"Icon": "uixTxrIcon_kingcrab"
+    "Details": "Conceived as an infantry support 'Mech, the Hoplite is slow for a medium 'Mech with a top speed of only 64.8 km/h. However, its eleven and a half tons of armor and heavy arsenal makes the Hoplite a rugged machine able to fight its way out of most situations using superior firepower. The original 4A carries as its primary weapon a Luxor HV Autocannon/10, which allows it to put a good amount of damage on a target, with a low amount of heat. The 'Mech is also armed with a Conan/5 LRM-5 launcher.",
+	"Icon": "uixTxrIcon_hoplite"
   },
   "simGameMechPartCost": 1270000,
   "Version": 1,

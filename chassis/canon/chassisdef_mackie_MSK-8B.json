@@ -197,7 +197,9 @@
     ],
     "VariantName": "MSK-8B",
     "ChassisTags": {
-        "items": [],
+        "items": [
+			"mr-resize-1.10-1.10-1.10"
+		],
         "tagSetSourceFile": ""
     },
     "StockRole": "The First Battlemech",
